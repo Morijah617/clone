@@ -26,11 +26,16 @@ for z in range(200):
  else:ugent.append(ua)
 #---------------------Morijah-LOGO---------------------#
 logo ='''
-                                 
-  
-  ## %red%M%%%green%O%%%blue%R%%%purple%I%%%lime%J%%%indigo%A%%%orangered%H%%
-                                     
-   
+                                   
+ooo        ooooo   .oooooo.   ooooooooo.   ooooo    oooo       .o.       ooooo   ooooo 
+`88.       .888'  d8P'  `Y8b  `888   `Y88. `888'    `888      .888.      `888'   `888' 
+ 888b     d'888  888      888  888   .d88'  888      888     .8"888.      888     888  
+ 8 Y88. .P  888  888      888  888ooo88P'   888      888    .8' `888.     888ooooo888  
+ 8  `888'   888  888      888  888`88b.     888      888   .88ooo8888.    888     888  
+ 8    Y     888  `88b    d88'  888  `88b.   888      888  .8'     `888.   888     888  
+o8o        o888o  `Y8bood8P'  o888o  o888o o888o .o. 88P o88o     o8888o o888o   o888o 
+                                                 `Y888P                                                                                                                       
+                                                                                            
                                      
 \033[1;37m-------------------------------------------------
 \033[1;91m Author     : Mr MORIJAH
