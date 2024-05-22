@@ -1,6 +1,6 @@
-#coding :- utf-8
-#update by :- JANI AMUL❤️
-#Script Owner :MASTER JANI.MG
+#coding : Morijah
+#update by :- Morijah619
+#Script Owner :Morijah
 #---------------------
 try:
  import os,requests,time,re,random,sys,uuid,string,json,subprocess,base64,zlib,hashlib
@@ -24,18 +24,18 @@ for z in range(200):
  ua = f"UCWEB/2.0 (Linux; U; Opera Mini/7.1.32052/30.3697; id; CPH2387) U2/1.0.0 UCBrowser/9.9.0.543 Mobile [FBAN/MessengerLite;FBAV/{versi_chrome};FBBV/193013937;FBDM/"+"{density=2.625,width=1080,height=1794};"+f"FBLC/en_US;FBRV/0;FBCR/Verizon;FBMF/Google;FBBD/google;FBPN/com.facebook.mlite;FBDV/Pixel 2;FBSV/{versi_android};FBBK/1;FBOP/1;FBCA/arm64-v8a:;"
  if ua in ugent:pass
  else:ugent.append(ua)
-#---------------------MKING-LOGO---------------------#
+#---------------------Morijah-LOGO---------------------#
 logo ='''
-                                 
+**==%green%                                 
 ___  ______________ _____   ___  ___   _   _ 
 |  \/  |  _  | ___ \_   _| |_  |/ _ \ | | | |
 | .  . | | | | |_/ / | |     | / /_\ \| |_| |
 | |\/| | | | |    /  | |     | |  _  ||  _  |
 | |  | \ \_/ / |\ \ _| |_/\__/ / | | || | | |
 \_|  |_/\___/\_| \_|\___/\____/\_| |_/\_| |_/     
-                                     
+**==%green%                                     
 \033[1;37m-------------------------------------------------
-\033[1;91m Author     : 💢Mr MORIJAH💢
+\033[1;91m Author     : Mr MORIJAH
 \033[1;91m GitHub     : MORIJAH617
 \033[1;91m Status     : PAID
 \033[1;37m--------------------------------------------------
@@ -44,7 +44,7 @@ loop = 0
 oks = []
 pcp=[]
 cps=[]
-#---------------------MKING-MENU---------------------#
+#---------------------Morijah-MENU---------------------#
 def menu():
  os.system('clear')
  print(logo)
